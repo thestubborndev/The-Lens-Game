@@ -11,13 +11,11 @@ You can communicate your GitHub account email at this address carlotta [dot] tat
 
 WHAT'S INCLUDED
 <br>
-A* Pathfinding
-<br>
-File deserialization
+Dynamic A* Pathfinding using Aron Granberg opensource library: http://arongranberg.com/astar/
 <br>
 Sprites and 3d models
 <br>
-Prefabs, Shuriken, GUI, GameObjects, Scenes and other fundamental Unity concepts
+Prefabs, Shuriken, Mecanim, GUI, GameObjects, Audio, Music, Scenes and other fundamental Unity concepts
 <br>
 
 SCREEN
